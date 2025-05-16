@@ -1,0 +1,7 @@
+flask
+pandas
+seaborn
+matplotlib
+scikit-learn
+werkzeug
+openpyxl
